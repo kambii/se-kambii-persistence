@@ -1,8 +1,4 @@
 # se-kambii-persistence
-<<<<<<< HEAD
-=======
-
->>>>>>> 480c8c6 (hej mike)
 
 QA innan java projektet anpassas till ett databas projekt.
 1. Testa att du kan köra kod i main grenen med gradle.
