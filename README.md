@@ -1,15 +1,17 @@
 # se-kambii-persistence
-# public class java{
-# public static void main(String[] args){
-#  System.out.println("Hello world");
-#  }
-# }
 
-1. Gå till ditt Workspace!
-2. Skapa katalog för projektet (skapa projektkatalog)
-3. Gå till ditt projekt
-4. Kör gradle init
-5. Besvara frågorna
-6. Starta IntelliJ
-7. Skriv din Main klass
-8. Kör koden
+QA innan java projektet anpassas till ett databas projekt.
+1. Testa att du kan köra kod i main grenen med gradle.
+2. Testa att du kan  köra kod i test grenen med gradle.
+3. Testa att projektet öppnas som java projekt i Intellij.
+4. Testa att du kan köra kod i main grenen med Intellij.
+5. Testa att du kan köra kod i test grenen med Intellij.
+6. Testa att du kan köra docker i bash
+
+Anpassa projektet till ett databas projekt.
+
+1. Lägg till beroende för drivrutiner till Mysql.
+2. Lägg till beroender för docker test containers.
+3. Lägg till beroende för batch körning i mysql.
+4. Lägg till sql script för att initiera databasen i resursgrenent.
+
